@@ -8,6 +8,7 @@ This is a simple inventory management system built using Java and SQLite. It run
 - Update existing item quantity and price
 - Delete items from the database
 - View all items in tabular format
+  
 - Data persistence using SQLite
 
 # Technologies Used
